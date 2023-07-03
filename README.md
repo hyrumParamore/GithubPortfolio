@@ -6,7 +6,7 @@ This repository is where I post links to the different projects that I have work
 
 
 # Projects
-Here are a list of projects that I have worked and/ or are working on.
+Here is a list of projects that I have worked on and/ or are working on.
 
 
 ### Web Development
@@ -15,6 +15,7 @@ Here are a list of projects that I have worked and/ or are working on.
 
 ### JavaScript
 * [JavaScript Vertical Platformer](https://github.com/hyrumParamore/vertical-platformer)
+* [Task Manager - JavaScript Console Program](https://github.com/hyrumParamore/TaskManager)
 
 
 ### Backend / Database
