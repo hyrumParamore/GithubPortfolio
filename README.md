@@ -13,7 +13,7 @@ This repository is where I post links to the different projects that I have work
 *[CHECK IT OUT HERE!](https://hyrumparamore.github.io/ADDO-Demo.github.io/index.html)*
 
 <a href="https://hyrumparamore.github.io/ADDO-Demo.github.io/index.html">
-    <img src="https://hyrumparamore.github.io/ADDO-Demo.github.io/Images/ADDO%20Icon.png" alt="ADDO Demo // Senior Project" width="125" height="auto">
+    <img src="https://hyrumparamore.github.io/ADDO-Demo.github.io/Images/ADDO%20Icon.png" alt="ADDO Demo // Senior Project" width="200" height="auto">
 </a>
 
 <br></br>
