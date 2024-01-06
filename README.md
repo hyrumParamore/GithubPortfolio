@@ -17,7 +17,7 @@ This repository is where I post links to the different projects that I have work
 </a>
 
 <br></br>
-[Click here](https://github.com/hyrumParamore/ADDO-Demo.github.io) to view the link to the GitHub Repository instead of the ADDO Demo Page.
+[Click here](https://github.com/hyrumParamore/ADDO-Demo.github.io) to be taken to the GitHub Repository instead of the ADDO Demo Page.
 
 <br></br>
 
