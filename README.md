@@ -26,6 +26,7 @@ This repository is where I post links to the different projects that I have work
 <br></br>
 
 ### Web Development
+* [CSE341 - Web Services Final Project: Workout Tracker (MongoDB API Program)](https://github.com/hyrumParamore/cse341-final-project-workout-tracker)
 * [Pokemon Card Creator - Website/API](https://github.com/hyrumParamore/pokedex)
 
 
