@@ -4,6 +4,7 @@ My name is Hyrum Paramore and I am currently a student at BYU-Idaho studying Sof
 
 This repository is where I post links to the different projects that I have worked on and have accomplished. It is a place where you can see everything I have done in an easier view.
 <br></br>
+LinkedIn: *[Hyrum Paramore](https://www.linkedin.com/in/hyrum-paramore/)*
 
 # Projects
 
